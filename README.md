@@ -2,8 +2,7 @@
 
 A real-time chat application that allows users to communicate seamlessly with features like user authentication, message storage, and responsive UI.
 
-Features
-
+Features :-
 ✅ Real-time messaging using WebSockets
 ✅ User authentication & registration
 ✅ Secure message encryption
